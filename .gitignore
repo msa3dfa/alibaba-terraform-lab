@@ -1,0 +1,7 @@
+terraform.tfstate
+terraform.tfstate.backup
+variables.tf
+.terraform/
+.terraform/**
+.terraform.lock.hcl
+my_priv_key
